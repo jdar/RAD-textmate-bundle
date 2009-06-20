@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class ${1:Model}Sketch &lt; ArduinoSketch
+	#  vars :a =&gt; :int, :b =&gt; 7, :c =&gt; "hello" 
+
+	serial_begin :rate =&gt; ${2:115200} # note: different serial connections will require different baud rates. See http://something something
+	output_pin 13, :as=&gt;:led
+
+	$0
+
+	def loop
+		Serial.read if Serial.available
+	end
+end
+
+</string>
+	<key>name</key>
+	<string>Create sketch class</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>cla</string>
+	<key>uuid</key>
+	<string>B7FE5AE5-5B24-4AEA-ACB0-2554F2D4B2EB</string>
+</dict>
+</plist>

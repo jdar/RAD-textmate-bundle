@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>6846ACE0-702C-47DD-9DF9-136B709085BA</string>
+			<string>200DA51C-EBC4-4774-A1EC-10DFBA226D4C</string>
+			<string>------------------------------------</string>
+			<string>2768BFB3-A09E-46F2-91F2-836C985377CB</string>
+			<string>29E915C9-EA25-4ADA-867B-7ACFA7D472B2</string>
+			<string>------------------------------------</string>
+			<string>B1329936-C6C3-4052-8F4F-9E6047427489</string>
+			<string>4F5E0A66-A0A2-4C96-B03D-50A857C4F5D2</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>2768BFB3-A09E-46F2-91F2-836C985377CB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>B7FE5AE5-5B24-4AEA-ACB0-2554F2D4B2EB</string>
+				</array>
+				<key>name</key>
+				<string>Sketches</string>
+			</dict>
+			<key>6846ACE0-702C-47DD-9DF9-136B709085BA</key>
+			<dict>
+				<key>items</key>
+				<array/>
+				<key>name</key>
+				<string>Go To</string>
+			</dict>
+			<key>B1329936-C6C3-4052-8F4F-9E6047427489</key>
+			<dict>
+				<key>items</key>
+				<array/>
+				<key>name</key>
+				<string>Serial</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>RAD</string>
+	<key>ordering</key>
+	<array>
+		<string>B7FE5AE5-5B24-4AEA-ACB0-2554F2D4B2EB</string>
+		<string>4F5E0A66-A0A2-4C96-B03D-50A857C4F5D2</string>
+		<string>200DA51C-EBC4-4774-A1EC-10DFBA226D4C</string>
+		<string>89E2FC93-3B32-4800-8FF4-14AB18C0B5A1</string>
+		<string>D886FDA1-016F-4534-B794-1A67FD51D3F4</string>
+		<string>29E915C9-EA25-4ADA-867B-7ACFA7D472B2</string>
+	</array>
+	<key>uuid</key>
+	<string>737B4392-E44D-4F80-A748-650B80732314</string>
+</dict>
+</plist>

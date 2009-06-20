@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>serial_begin :${1:attribute}=&gt;${2:rate}</string>
+	<key>name</key>
+	<string>serial_begin</string>
+	<key>scope</key>
+	<string>source.ruby.rad</string>
+	<key>tabTrigger</key>
+	<string>ser</string>
+	<key>uuid</key>
+	<string>D886FDA1-016F-4534-B794-1A67FD51D3F4</string>
+</dict>
+</plist>
